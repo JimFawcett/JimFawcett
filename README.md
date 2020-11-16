@@ -2,6 +2,7 @@
 - Now collaborating on C++, C#, and especially Rust projects.
 - Started working with C++ in 1988 and, since retiring focusing a lot on Rust.
 - Rust seems to have found the sweet spot for performance, memory and data race safety, and expressiveness.
+- You will find a lot of repositories in this site with C++ and Rust code, with a smattering of C# <a href="">here</s>.
 
 <!--
 **JimFawcett/JimFawcett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
