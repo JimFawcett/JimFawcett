@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm a retired Teaching Professor from the Computer Engineering Program at Syracuse University 👋
 
 <!--
 **JimFawcett/JimFawcett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
