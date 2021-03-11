@@ -4,7 +4,7 @@
 - Rust seems to have found the sweet spot for performance, memory and data race safety, and expressiveness.
 - You will find a lot of repositories in this <a href="https://jimfawcett.github.io">**site**</a> with C++ and Rust code, with a smattering of C# <a href="https://jimfawcett.github.io/RsRepositories.html">**here**</a>.
 
-Please visit the website for these repositories: <a href="https://JimFawcett.github.io">**Website Home**</a>
+Please visit the website for documentation of these repositories: <a href="https://JimFawcett.github.io">**Website Home**</a>
 
 <!--
 **JimFawcett/JimFawcett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
