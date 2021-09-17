@@ -5,6 +5,8 @@
 - You will find a lot of repositories in this <a href="https://jimfawcett.github.io">**site**</a> with C++ and Rust code, with a smattering of C# <a href="https://jimfawcett.github.io/RsRepositories.html">**here**</a>.
 
 Please visit the website for documentation of these repositories: <a href="https://JimFawcett.github.io">**Website Home**</a>
+- <a href="https://github.com/JimFawcett/RustPlaygroundExamples/blob/main/README.md">Rust Playground examples</a>
+- <a href="https://jimfawcett.github.io/IndexPage.html">Rust Glossary</a>
 
 <!--
 **JimFawcett/JimFawcett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
