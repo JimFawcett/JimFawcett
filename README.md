@@ -7,6 +7,7 @@
 Please visit the website for documentation of these repositories: <a href="https://JimFawcett.github.io">**Website Home**</a>
 - <a href="https://github.com/JimFawcett/RustPlaygroundExamples/blob/main/README.md">Rust Playground examples</a>
 - <a href="https://jimfawcett.github.io/IndexPage.html">Rust Glossary</a>
+- <a href="https://jimfawcett.github.io/Resources/RustBites/RustBites_FlashCards.html">Flash Cards</a>
 
 <!--
 **JimFawcett/JimFawcett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
