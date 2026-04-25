@@ -1,4 +1,4 @@
-### Hi, I'm a retired Teaching Professor from the Computer Engineering Program at Syracuse University.  Before that worked in industry as a System Engineer and Software Developer. 👋<br />
+### Hi, I'm a retired Teaching Professor Emeritus from the Computer Engineering Program at Syracuse University.  Before that worked in industry as a System Engineer and Software Developer. 👋<br />
 - Now collaborating on C++, C#, and especially Rust projects.
 - Started working with C++ in 1988 and, since retiring focusing a lot on Rust.
 - Rust seems to have found the sweet spot for performance, memory and data race safety, and expressiveness.
